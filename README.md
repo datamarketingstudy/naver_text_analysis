@@ -19,7 +19,7 @@ R을 활용한 네이버 뉴스 댓글 여론 텍스트 분석 (feat.축구선�
 
 ## 참고 자료
 ---------------------------------------
-네이버 뉴스 댓글 크롤링 패키지 `N2H4`
-[출처:github.com/forkonlp/N2H4]("https://github.com/forkonlp/N2H4")  
+네이버 뉴스 댓글 크롤링 패키지 `N2H4`  
+[출처. github.com/forkonlp/N2H4]("https://github.com/forkonlp/N2H4")  
 
 
